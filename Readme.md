@@ -1,7 +1,7 @@
 # Haoqi Zhang  
 <br>
 
-![hq.jpg](hq.jpg)
+![hq1.jpg](hq1.jpg)
 
 
 ## Education  
